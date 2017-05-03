@@ -1,0 +1,44 @@
+User-agent: *
+
+
+
+Disallow: *
+
+
+#Disallow: /admin/
+
+#Disallow: /css/
+
+#Disallow: /js/
+
+#Disallow: /images/
+
+#Disallow: /files/
+
+#Disallow: /search/
+
+#Disallow: /search?
+
+
+
+User-agent: Yandex
+
+
+
+Disallow: /
+#Disallow: /admin/
+
+#Disallow: /css/
+
+#Disallow: /js/
+
+#Disallow: /images/
+
+#Disallow: /files/
+
+#Disallow: /search/
+
+#Disallow: /search?
+
+
+#Host:elit-montag.ru
